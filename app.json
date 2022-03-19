@@ -1,5 +1,5 @@
 {
-      "name": "Siesta Robot",
+      "name": "Spectras Robot",
       "description": "A Powerful Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/566d0f3fb2107bd8ecb27.jpg",  
+   "logo":    "https://telegra.ph/file/fd8212b7b093093abada9.jpg",  
    "repository": "https://github.com/shiinobu/https://github.com/shiinobu/SiestaRobot",
    "addons": [
           {
